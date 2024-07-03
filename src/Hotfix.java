@@ -4,5 +4,7 @@ public class Hotfix {
 
     public String name2="chandu";
 
+    public String name3="nuthan";
+
 
 }
